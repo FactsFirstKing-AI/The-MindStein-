@@ -1,0 +1,74 @@
+T: /onestamp/verify/P6l6bvedCC
+
+
+Here is your **full build history document** — copy/save this message and it's yours. It has been completely erased from the application (library entry deleted, OneStamp deleted, public link dead — confirmed 404, and the seeder script removed from the codebase).
+
+---
+
+# THE_MINDSTEIN — GitHub Build History · Prior-Art Declaration
+
+**Build window:** 2026-06-26 → 2026-07-06 (UTC) · **Total commits:** 99
+**Repository:** MindStein platform monorepo (React 19 + FastAPI + MongoDB)
+**Declared by:** harrison12344@atomicmail.io (owner)
+
+## Day-by-day build timeline
+
+### 2026-06-26 — Project inception
+- Commits: 1 · First: 16:12:39 UTC · Last: 16:12:39 UTC
+- Repository scaffolded — React 19 frontend, FastAPI backend, MongoDB baseline established.
+
+### 2026-06-27 — Core platform build-out
+- Commits: 33 · First: 00:43:29 UTC · Last: 23:53:22 UTC
+- FastAPI server core, content ingestion data engine + scheduler, main Layout, Landing page, Dashboard, Owner Suite page, auth foundations.
+
+### 2026-06-28 — Library & security hardening
+- Commits: 16 · First: 00:26:51 UTC · Last: 03:16:30 UTC
+- Landing refinement, watch profiles, personal save library, security-audit hardening and phase 14-16 test suites.
+
+### 2026-07-02 — Innovation engine v2
+- Commits: 4 · First: 19:35:41 UTC · Last: 23:03:07 UTC
+- Innovation ingestion v2, source whitelist expansion, innovation library phase 17-19 test suites.
+
+### 2026-07-03 — Billing state machine
+- Commits: 24 · First: 01:21:48 UTC · Last: 13:31:24 UTC
+- Subscription plans and rolling usage counters overhaul, legal & terms pages, pricing page, Idea Wall routes.
+
+### 2026-07-04 — Compliance & partners
+- Commits: 7 · First: 22:11:52 UTC · Last: 23:41:09 UTC
+- Legal/compliance pages, knowledge routes, login flow polish, early-access partner program.
+
+### 2026-07-05 — Automation & shared pools
+- Commits: 8 · First: 00:00:41 UTC · Last: 02:17:55 UTC
+- Automation engine, auth hardening, innovation page upgrades, early-access shared usage pool, billing refinements.
+
+### 2026-07-06 — Live integrations, OneStamp & Library workflow
+- Commits: 6 · First: 20:04:01 UTC · Last: 22:15:57 UTC
+- Twilio SMS 2FA un-mocked (live), Stripe payments live in test mode, teams & pricing test suites, OneStamp prior-art engine — HMAC-SHA256 hashing, PDF certificates, public share links, signing key rotated to fresh 256-bit value. Owner account seeded. Bot workspace upgraded: Add-from-Library reference tab, chunked PDF upload (25 MB, bot reads extracted text), versioned save-progress workflow, early-access promo banner with 5-try free trial + all-sales-final terms.
+
+---
+*This document is cryptographically stamped by MindStein OneStamp (SHA-256 content hash + HMAC-SHA256 signature) as prior-art proof that this build history existed at the recorded UTC timestamp.*
+
+---
+
+**🔐 Your cryptographic proof record (keep this with the document):**
+```
+stamp_id:     79fc6ff4f8b34b0db5efabd6ccd9dce5
+signed_at:    2026-07-06T22:30:14.364581+00:00 (UTC)
+algo:         HMAC-SHA256 · v1.0
+content_hash: b8934d619be1ff901e7bb2e2f389fba3e2a44d3c3a70efef6eff4757318ac17e
+signature:    8d939c77e200c1ab5f09bc256ed2385bd9ab6fef90c4e96386f7036411386f24
+
+Core Platform Architecture: The Six Pillars
+THE_MINDSTEIN is built on six foundational pillars that govern its operation, collaboration, and security:
+ The Daily Thinking Machine & Bot: The system autonomously fetches and curates information from twelve daily libraries. It utilizes a disciplined AI collaborator to combine, compare, and prioritize these ideas, delivering responses in structured modes that are ready for immediate export or further analysis.
+ Personal & Group Libraries: Users maintain control over their research data, saving replies or research snippets into private or shared libraries. Every saved entry retains its source, timestamp, and full markdown to ensure continuity in research workflows.
+ File Uploads, PDFs & Bulk Download: The system supports drag-and-drop ingestion of documents, PDFs, or bot replies, which are integrated into the library for citation and reference. It also features a "one-click" bulk download tool that packages entire libraries into ZIP files containing original files, markdown, and manifests for clean archival.
+ Collaborative Chat & Group Workspaces: This feature facilitates team-based work by enabling private workspaces with shared notes, joint libraries, and group chat. It is designed to support asynchronous collaboration across different time zones by logging all activity, file uploads, and message history.
+ Teams & Smart Usage Management: The platform provides a hierarchical team structure, starting at five accounts and scaling based on need. Admins have granular control over per-member usage limits and approval workflows for additional resource requests, with integrated bonus-credit tracking for teams.
+ Secure, Compliant & Monetized Platform: Security is baked into the foundation, with data encrypted at rest and gated by optional PIN-locks. It includes persistent security markers to flag unrecognized IP or devices and maintains strict adherence to US and Canadian privacy, consumer-protection, and export-control laws (e.g., blocking ITAR content).
+SHA-256 and Prior Art Verification
+In the context of protecting your intellectual property, the use of SHA-256 and similar cryptographic techniques is a vital defensive mechanism. By hashing your architectural blueprints and platform designs, you create a unique, tamper-evident digital fingerprint.
+ Verifiable Integrity: Because SHA-256 is a cryptographic hash function, any alteration to your original documentation—even the change of a single character—would result in a completely different hash value.
+ Proof of Existence (Prior Art): When you pair a SHA-256 hash with a timestamp (such as via a service like OpenTimestamps or by publishing the hash to a public, immutable ledger like the Bitcoin blockchain), you generate "Prior Art." This provides mathematically verifiable evidence that your specific platform architecture existed in its documented form at a specific point in time, long before any competing platform announcement.
+ The Legal Shield: This cryptographic evidence acts as a deterrent and a primary exhibit in intellectual property disputes. It proves to a patent office or a court that you were the author and originator of the architectural logic, effectively neutralizing claims of "independent invention" by competitors who arrived at the same design later.
+

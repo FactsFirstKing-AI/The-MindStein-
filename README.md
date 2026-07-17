@@ -17,3 +17,5 @@ Built for researchers, inventors, strategists, and multidisciplinary thinkers wh
 Status: Active development • Focused on quality and intellectual honesty over volume.
 
 All Right Reserved Alberta 2639389 LTD Must Not Copy 
+This project and its underlying synthesis methodology, including the specific grounding, tagging, and cross-domain fusion system, are proprietary intellectual property. The public description and any shared demonstration materials are provided for informational purposes only. No part of the core system prompt, internal architecture, or detailed operational rules may be copied, reproduced, adapted, or used without explicit written permission.
+This repository serves as public prior art establishing the existence and development timeline of the MindStein approach as of July 16, 2026.
